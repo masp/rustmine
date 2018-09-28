@@ -1,0 +1,9 @@
+[package]
+name = "rustmine"
+version = "0.1.0"
+authors = ["masp"]
+
+[dependencies]
+mio = "0.6"
+bytes = "0.4"
+byteorder = "0.4"
